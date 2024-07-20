@@ -595,9 +595,10 @@
   @media screen and (max-width: 768px) {
     .services__wrapper {
       grid-template-columns: 1fr;
+      width: 100%;
     }
   }
-  
+
   /* Footer CSS */
   .footer__container {
     background-color: #131313;
